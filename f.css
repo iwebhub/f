@@ -1,0 +1,26 @@
+.fraction, .top, .bottom {
+    padding: 0 5px;    
+}
+
+.fraction {
+    display: inline-block;
+    text-align: center;    
+}
+
+.bottom{
+    border-top: 1px solid #000;
+    margin-top: 3px;
+    display: block;
+}
+
+.average{
+	text-decoration: overline;
+}
+
+.fo{
+	width: 150px;
+}
+
+.lf{
+	width:300px;
+}
