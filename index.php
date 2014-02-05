@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="hr">
 <head>
@@ -153,8 +152,7 @@ echo '<div id="visualization" style="width: 700px; height: 600px;"></div>';
 
 <div class="wrap">
     <h1>Alati: Fizika</h1>
-    <p>Koristiti <code>.</code> kao decimalni separator (npr. <code>11.17</code> umjesto <code>11,17</code>)  - verzija 1.0.0 -  <a href="source.php">Izvorni kod</a> - Namijenjeno za kinematiku u osmom razredu OŠ.</p>
-    <h2>Izračuni</h2>
+    <p>Koristiti <code>.</code> kao decimalni separator (npr. <code>11.17</code> umjesto <code>11,17</code>)  - verzija 1.0.0 -  <a href="source.php">Izvorni kod</a></p>
     <div class="brzina">
         <form method="post" action="index.php">
             <h3>Srednja brzina <small>kod nejednolikog gibanja</small></h3>
